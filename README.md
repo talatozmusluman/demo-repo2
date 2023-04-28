@@ -6,3 +6,4 @@ Some text1
 
 Some text--feature1
 Some text--quick test
+Have fun!
